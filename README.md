@@ -1,2 +1,2 @@
-# Raspberry-Pi-Ethereum-Network
-Solidity and Python Code files
+# Raspberry-Pi-Crypto-Network
+Solidity Code 
